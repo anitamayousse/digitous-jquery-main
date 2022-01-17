@@ -34,9 +34,9 @@ body {
 
 #exercise #square {
     height: 100px;
-    width: 500px;
+    width: 100px;
     border: 1px solid #000000;
-    background: red;
+    background: green;
     position: absolute;
     margin: 10px;
 }
@@ -46,8 +46,4 @@ body {
     width: 200px;
     background-image: url(../img/background.jpg);
     background-size: 600px;
-}
-
-#exercise #text {
-    font-size: 50px;
 }
