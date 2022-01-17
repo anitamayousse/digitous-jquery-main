@@ -34,7 +34,7 @@ body {
 
 #exercise #square {
     height: 100px;
-    width: 100px;
+    width: 500px;
     border: 1px solid #000000;
     background: red;
     position: absolute;
