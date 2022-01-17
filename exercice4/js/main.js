@@ -1,3 +1,3 @@
 $(function(){
-    $("#text").attr("float-right");
+    $("#text").attr("class","float-right");
 });
